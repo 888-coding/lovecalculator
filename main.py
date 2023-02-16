@@ -22,6 +22,13 @@ e = combine_name.count("e")
 love = l + o + v + e
 
 #fist digit is "true" , the second digit is "love"
-love_score = str(true) + str(love)
+love_score = int(str(true) + str(love))
 
-print(love_score)
+#Conditions 
+if love_score < 10 or love_score > 90 :
+    print("Say bye bye, you are always gonna be only friends")
+else:
+    if love_score>= 40 and love_score <= 50 :
+        print("You are good together")
+    else:
+        print(f"Your score is : {love_score}")
