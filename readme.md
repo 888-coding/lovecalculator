@@ -12,3 +12,4 @@ Learning :
 
 1.2 the count("letter")
 
+Ending the repository contents 
