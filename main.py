@@ -32,3 +32,5 @@ else:
         print("You are good together")
     else:
         print(f"Your score is : {love_score}")
+        
+# Fim da linha 
