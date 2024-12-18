@@ -33,4 +33,3 @@ else:
     else:
         print(f"Your score is : {love_score}")
         
-# Fim da linha 
