@@ -1,15 +1,9 @@
-# Love Calculator 
+# Love Calculator
 
-It is a studying app, calculator for couple compatibility.
+Único arquivo: main.py
+Programação simples.
+Aprendizado sobre variável
+Comandos de string
+Input do Python 
 
-It is just a kind of playing with words and strings.
-
-Learning :
-
-1. the string command "str" 
-
-1.1 the lower() 
-
-1.2 the count("letter")
-
-Ending the repository contents 
+Muito simples.
