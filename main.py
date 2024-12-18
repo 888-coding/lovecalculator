@@ -33,3 +33,5 @@ else:
     else:
         print(f"Your score is : {love_score}")
         
+
+# Happiness in love for all the lovers
